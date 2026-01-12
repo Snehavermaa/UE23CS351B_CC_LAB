@@ -34,7 +34,6 @@ Cloud-Computing-Lab/
 | Lab No | Experiment Title | Status    |
 | ------ | ---------------- | --------- |
 | Lab 01 | Services in CC   | Done      |
-
 | Lab 02 | *To be added*    | ⏳ Pending |
 | Lab 03 | *To be added*    | ⏳ Pending |
 
